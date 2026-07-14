@@ -1,5 +1,5 @@
-aiogram>=3.0
-instaloader>=4.10
-pytubefix>=8.0
-requests>=2.31
-wikipedia>=1.4
+aiogram
+instaloader
+pytubefix
+requests
+wikipedia
